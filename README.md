@@ -14,6 +14,11 @@ This repo contains sources for JEE training given at Edacy Makersday
         <module name="javax.api"/>
         <module name="javax.transaction.api"/>
     </dependencies>
+
+    <dependency>
+          <groupId>com.sun.mail</groupId>
+	        <artifactId>javax.mail</artifactId>
+		</dependency>
 </module>
 ```
 
